@@ -15,9 +15,9 @@ Esta función hace que todos los elementos de la matriz se impriman en el textAr
 Esta función imprime en el textarea datos que esten almacenados en la matriz los cuales concuerden con los datos puestos en los campos de texto, exceptuando las coordenadas, 
 los datos en los campos de texto pueden estar sin llenar, y se imprimiran todas las coincidencias con los campos que esten llenos, si no se encuentra nada, 
 se imprimira la carencia de resultados 
-##Eliminar
+## Eliminar
 Esta función eliminará de la matriz los datos que coincidan con lo escrito en los campos de texto, las condiciones son las mismas que la función de buscar
-
+en el caso de que todos los campos esten vacios, se elimina toda la matriz
 # ARCHIVOS DEL CODIGO
 ## AUTO
 es la clase que contiene los elementos que el objeto auto va a usar 
